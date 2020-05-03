@@ -8,7 +8,7 @@ __Simple online translator application for__ __[Ubuntu Touch](https://ubuntu-tou
 - Translation history
 - Ability to invert translation
 - Cool animations
-- Using external API from __ __[yandex](https://translate.yandex.com/)__
+- Using external API from __[yandex](https://translate.yandex.com/)__
 - Absolutely free, can be downloaded from __[OpenStore](https://open-store.io/app/com.ubuntu.developer.majster-pl.translator-app)__
 
 ---
