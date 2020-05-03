@@ -1,0 +1,15 @@
+{
+    "name": "com.ubuntu.developer.majster-pl.translator-app",
+    "description": "description of translator-app",
+    "architecture": "all",
+    "title": "translator-app",
+    "hooks": {
+        "translator": {
+            "apparmor": "translator.apparmor",
+            "desktop": "translator.desktop"
+        }
+    },
+    "version": "0.5",
+    "maintainer": "Szymon Waliczek <majsterrr@gmail.com>",
+    "framework": "ubuntu-sdk-15.04-qml"
+}

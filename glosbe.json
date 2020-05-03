@@ -1,0 +1,105 @@
+{
+  "result" : "ok",
+  "authors" : {
+    "2" : {
+      "U" : "http://pl.wiktionary.org",
+      "id" : 2,
+      "N" : "pl.wiktionary.org",
+      "url" : "https://glosbe.com/source/2"
+    },
+    "86" : {
+      "U" : "",
+      "id" : 86,
+      "N" : "wiki",
+      "url" : "https://glosbe.com/source/86"
+    },
+    "25018" : {
+      "U" : "http://glosbe.com",
+      "id" : 25018,
+      "N" : "GlosbeResearch",
+      "url" : "https://glosbe.com/source/25018"
+    },
+    "70195" : {
+      "U" : "",
+      "id" : 70195,
+      "N" : "en.wiktionary.org_2014",
+      "url" : "https://glosbe.com/source/70195"
+    },
+    "20" : {
+      "U" : "http://www.slowniki.org.pl/",
+      "id" : 20,
+      "N" : "Jerzy Kazojc",
+      "url" : "https://glosbe.com/source/20"
+    }
+  },
+  "dest" : "en",
+  "phrase" : "test",
+  "tuc" : [ {
+    "authors" : [ 86 ],
+    "meaningId" : 1009182977559118962,
+    "meanings" : [ {
+      "text" : "egzamin, sprawdzian",
+      "language" : "pl"
+    }, {
+      "text" : "pr&oacute;ba podejmowana, aby uzyskać odpowiedź na postawione pytania",
+      "language" : "pl"
+    }, {
+      "text" : "product examination",
+      "language" : "en"
+    } ],
+    "phrase" : {
+      "text" : "test",
+      "language" : "en"
+    }
+  }, {
+    "authors" : [ 70195 ],
+    "meaningId" : -1397415884739116043,
+    "meanings" : [ {
+      "text" : "chance to test something out",
+      "language" : "en"
+    }, {
+      "text" : "chance to test something out",
+      "language" : "en"
+    } ],
+    "phrase" : {
+      "text" : "trial",
+      "language" : "en"
+    }
+  }, {
+    "authors" : [ 20 ],
+    "meaningId" : -8605970063540425277,
+    "phrase" : {
+      "text" : "chi-square",
+      "language" : "en"
+    }
+  }, {
+    "authors" : [ 25018 ],
+    "meaningId" : 8444924782077266844,
+    "phrase" : {
+      "text" : "examination",
+      "language" : "en"
+    }
+  }, {
+    "authors" : [ 20 ],
+    "meaningId" : 4607372342877217615,
+    "phrase" : {
+      "text" : "paper",
+      "language" : "en"
+    }
+  }, {
+    "authors" : [ 25018 ],
+    "meaningId" : -1630070046732596257,
+    "phrase" : {
+      "text" : "quiz",
+      "language" : "en"
+    }
+  }, {
+    "authors" : [ 2 ],
+    "meaningId" : null,
+    "meanings" : [ {
+      "text" : "&#39;&#39;&#39;techn.&#39;&#39;&#39; &#39;&#39;&#39;technika&#39;&#39;&#39; obraz pr&oacute;bny w telewizorze",
+      "language" : "pl"
+    } ]
+  } ],
+  "from" : "pl"
+}

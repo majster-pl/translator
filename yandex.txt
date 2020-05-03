@@ -1,0 +1,4 @@
+trnsl.1.1.20150528T234856Z.d433d6c9d873d792.c584b5f1e42203e4e01b89f8e133867aa485827b
+
+
+https://translate.yandex.net/api/v1.5/tr/translate?key=trnsl.1.1.20150528T234856Z.d433d6c9d873d792.c584b5f1e42203e4e01b89f8e133867aa485827b&lang=en-ru&text=To+be,+or+not+to+be%3F&text=That+is+the+question.
